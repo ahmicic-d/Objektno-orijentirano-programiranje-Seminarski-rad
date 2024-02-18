@@ -1,0 +1,14 @@
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\bin\Debug\OOP_Zavrsni.exe.config
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\bin\Debug\OOP_Zavrsni.exe
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\bin\Debug\OOP_Zavrsni.pdb
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.csproj.AssemblyReference.cache
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.Properties.Resources.resources
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.csproj.GenerateResource.cache
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.csproj.CoreCompileInputs.cache
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.exe
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.pdb
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.StartIzbornik.resources
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.Igrica.resources
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.Pomoc.resources
+C:\Users\dinoa\OneDrive\Desktop\OOP_Zavrsni\OOP_Zavrsni\obj\Debug\OOP_Zavrsni.CharacterIzbornik.resources
